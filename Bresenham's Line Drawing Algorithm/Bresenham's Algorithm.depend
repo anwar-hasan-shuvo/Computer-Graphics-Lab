@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531895697 source:f:\daffodil international university\level 4 term 2\cse 422 (l)\bresenham's line drawing algorithm\bresenham's algorithm\bresenham's algorithm.c
+	<GL/glut.h>
+	<stdio.h>
+	<GL/gl.h>
+
