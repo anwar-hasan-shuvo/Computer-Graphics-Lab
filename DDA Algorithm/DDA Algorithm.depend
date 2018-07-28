@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532762128 source:f:\daffodil international university\level 4 term 2\cse 422 (l)\dda algorithm\dda algorithm.c
+	<GL/glut.h>
+	<stdio.h>
+	<GL/gl.h>
+
