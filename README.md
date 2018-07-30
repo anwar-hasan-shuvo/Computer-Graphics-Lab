@@ -1,1 +1,1 @@
-# Computer-Graphics-Lab
+If you’re interested in coding in OpenGL and C++, a great way to  start is by using GLUT.  GLUT takes care of a lot of the difficulties in setting up an OpenGL project. In this repository there is a folder named "Header files for OpenGL". Open the folder and read the file named "deannicholls". Download the necessary files and setup the environment first.
