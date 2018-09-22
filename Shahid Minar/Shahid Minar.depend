@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537645313 source:d:\shahid minar\shahid minar.c
+	<GL/glut.h>
+	<stdio.h>
+	<GL/gl.h>
+
